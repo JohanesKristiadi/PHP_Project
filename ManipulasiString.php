@@ -1,6 +1,6 @@
 <?php
 
-$name = "Eko Kurniawan Khannedy";
+$name = "Johanes Kristiadi";
 
 echo "Name : " . $name . PHP_EOL;
 echo "Value : " . 100 . PHP_EOL;
@@ -14,7 +14,7 @@ var_dump($valueInt);
 $valueFloat = (float)"1.01";
 var_dump($valueFloat);
 
-$name = "Eko";
+$name = "Johanes";
 echo $name[0] . PHP_EOL;
 echo $name[1] . PHP_EOL;
 echo $name[2] . PHP_EOL;
@@ -22,5 +22,5 @@ echo $name[2] . PHP_EOL;
 echo "Hello " . $name . ", Selamat Belajar PHP" . PHP_EOL;
 echo "Hello $name, Selamat Belajar PHP" . PHP_EOL;
 
-$var = "Eko";
+$var = "Johanes";
 echo "This is {$var}s" . PHP_EOL;
