@@ -15,6 +15,8 @@ if ($nilai >= 80 && $absen >= 80) {
     echo "Nilai Anda E" . PHP_EOL;
 }
 
+// else if dapat juga ditulis dengan pengabungan ataupun digabung
+
 if ($nilai >= 80 && $absen >= 80) :
     echo "Nilai Anda A" . PHP_EOL;
 elseif ($nilai >= 70 && $absen >= 70):
